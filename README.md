@@ -10,7 +10,7 @@ Bobby has asked us to create a database to determine the number of retiring empl
 
 ![retirement total](Resources/1.PNG)
 
--It is important to note that we needed to remove duplicate employees due to new roles from promotions and remove employees that are no longer with the company.
+- It is important to note that we needed to remove duplicate employees due to new roles from promotions and remove employees that are no longer with the company.
 
 - Using the critiera from Bobby, we were able to determine who was eligible for the mentorship program. The query produced 1549 eligible candidates.
 
@@ -24,3 +24,5 @@ Bobby has asked us to create a database to determine the number of retiring empl
 It is difficult to determine how many roles will open up as people retire for different reasons and at different times.
 
 Although only 2 managers are up for retirement, there are currently no managers in our mentorship eligibility table. Perhaps if we changed the criteria from birthdate to years with the company, we will be able to find managers for the mentorship program. Aside from this, Hewlet-Packard seems well prepared for a "silver tsunami'.
+
+![count mentor](Resources/3.PNG)
